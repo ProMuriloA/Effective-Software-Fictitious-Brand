@@ -1,4 +1,4 @@
-# Fictitious-Brand-Website
+# Effective Software Fictitious Brand Website
 
 This is a fictitious website for code demonstration. It is build with HTML, CSS and Bootstrap. 
 
