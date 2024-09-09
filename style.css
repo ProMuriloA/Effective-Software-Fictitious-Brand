@@ -1,0 +1,31 @@
+.subtitle-paragraph {
+    font-size: 11px;
+    font-weight: bold;
+
+}
+nav a {
+    text-decoration: none;
+    color: #198754;
+}
+.card-section {
+    justify-content: center;
+   
+}
+#jumbo-section {
+    max-width: 60%;
+    margin: auto 20%;
+}
+.card-section {
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: auto 15% 5% 15%;
+}
+.carousel-inner-css {
+    max-width: 60%;
+    margin: 5% 20% 5% 20%;
+    background-color: gainsboro;
+}
+.footer-ul {
+    list-style-type: none;
+    font-size: 14px;
+}
